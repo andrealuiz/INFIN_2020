@@ -1,0 +1,6 @@
+-git clone (per extreure carpeta)
+-git status 
+-git add (missatge) (agregar archiu)
+-git diff
+-git add . (pujar-ho tot)
+-git commit -m "descripcio archiu"
